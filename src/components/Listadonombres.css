@@ -1,0 +1,13 @@
+#contenedor{
+    margin: 30px;
+}
+
+#item  {
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
+
+#registrar{
+    width: 100%;
+}
